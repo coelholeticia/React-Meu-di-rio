@@ -5,7 +5,7 @@
 Tenha o <a href="https://nodejs.org/en/download/">Node</a> instalado no pc. 
  - Abra seu terminal:
  Node -V : verificar a versão instalada do node.
- Nesse repositorio usamos o Vite para iniciar o react. 
+ - Nesse repositorio usamos o Vite para iniciar o react. 
  <a href="https://vitejs.dev/guide/#overview">Documentação Vite</a>
 
  2. Foram Usados Componentes e Props
