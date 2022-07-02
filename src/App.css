@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(255, 250, 251);
+}
+
+.banner{
+    width: 100%;
+    height: 5%;
+}
+
+.text-foto{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 80px;
+    align-items: flex-start;
+}
+
+.foto{
+    height: 20rem;
+    border-radius: 20px;
+    border: solid 4px plum;
+}
+
+.text-apres{
+    width: 30rem;
+    padding: 4rem;
+}
+
+h1{
+    color: dimgray;
+    font-size: 32px;
+}
+
+span{
+    color:deeppink;
+}
+
+span:hover{
+    color: rgb(187, 119, 251);
+}
+
+.parag-apres{
+    color: darkgray;
+    font-size: 18px;
+}
+
+.meme{
+    width: 300px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.text-meme{
+    font-size: 16px;
+    color: dimgray;
+    width: 60%;
+    padding: 10px;
+    border: solid rgb(251, 123, 198);
+}
+
+.text-meme:hover{
+    border: solid purple;
+    color: crimson;
+
+}
+
+.card-1, .card-2, .card-3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 12px;
+    margin: 4rem 20rem;
+}
+
+.roda-pe{
+    background-color: plum;
+    text-align: center;
+    padding: 5px;
+    color: rgb(252, 252, 252);
+    font-size: 18px;
+}
